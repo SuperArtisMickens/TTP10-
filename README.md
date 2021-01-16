@@ -1,4 +1,7 @@
-# TTP10-
+# MEC TTP 2021 Winter Assignment 10: en Español
+
+## Purpose
+
 To practice making an API call to a 3rd party in React
 
 ## Task
@@ -32,4 +35,3 @@ Google has a great Node JS SDK that simplifies things. I highly suggest you use 
 Submit a single github link before 11:59pm EST on Jan 19, 2021 using the following form. Only one student on your team needs to submit and be sure to tag all the team members when submitting.
 
 [https://airtable.com/shrdhk3TgUWZ6pFO5](https://airtable.com/shrdhk3TgUWZ6pFO5)
-
