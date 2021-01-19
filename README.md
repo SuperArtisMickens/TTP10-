@@ -1,37 +1,70 @@
-# MEC TTP 2021 Winter Assignment 10: en Español
+# Getting Started with Create React App
 
-## Purpose
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-To practice making an API call to a 3rd party in React
+## Available Scripts
 
-## Task
+In the project directory, you can run:
 
-Create a simple React form that sends a piece of text to Google's Translate API. This can be for any language or have a dropdown for the user to specify the language. Display the response to the user in some way.
+### `npm start`
 
-Because this is relatively complicated, your team is responsible for only one form. However, be sure to be inclusive and let each member observe and/or try building this. After the completion of this assignment, each member on your team should be familiar enough to be able to recreate it on their own.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Requirements
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-You need to do some basic form validation. Limit the user's input to something reasonable, like 100 characters. You need to store your Google API key separate from your code and modify your .gitignore file from your repo. **This is important because your repos are public!** **This is important because your repos are public!** **This is important because your repos are public!**.
+### `npm test`
 
-## Pricing
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-When setting up your Google API key, you will be required to create a billing account. Google Translate will give you $10 in credit every month to reimburse any calls. For practical terms, this means that the first 500,000 characters you send to translate every month will be free.
+### `npm run build`
 
-[https://cloud.google.com/translate/pricing](https://cloud.google.com/translate/pricing)
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-This should be just fine for this bootcamp. In your development phase, as you are preparing the assignment for submission, be sure to limit the number of characters you send to Google in your testing.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-## SDK
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Google has a great Node JS SDK that simplifies things. I highly suggest you use it.
+### `npm run eject`
 
-## References
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-[https://cloud.google.com/translate/docs/quickstarts](https://cloud.google.com/translate/docs/quickstarts)
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## Submission
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-Submit a single github link before 11:59pm EST on Jan 19, 2021 using the following form. Only one student on your team needs to submit and be sure to tag all the team members when submitting.
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-[https://airtable.com/shrdhk3TgUWZ6pFO5](https://airtable.com/shrdhk3TgUWZ6pFO5)
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
